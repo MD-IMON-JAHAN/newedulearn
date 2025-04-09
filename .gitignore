@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Django SQLite DB
+db.sqlite3
+
+# Django media files
+/media/
+
+# Environment variables
+.env
+
+# Static files collected for deployment
+staticfiles/
+
+# VSCode settings (optional)
+.vscode/
+
+# macOS system files (optional)
+.DS_Store
